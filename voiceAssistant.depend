@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1676470790 source:d:\certificate stuff\google\c++ projects\voiceassistant\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<windows.h>
+	<stdio.h>
+	<string.h>
+	<cstdlib>
+	<ctime>
+
